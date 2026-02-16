@@ -6,6 +6,17 @@ Welcome to **Mika Ventures** – where engineering excellence meets entrepreneur
 
 We're Miguel and Karen, a husband-and-wife team of engineers and business owners building innovative solutions across multiple domains. Our organization serves as the home for our collaborative projects, experiments, and ventures.
 
+## Our Projects
+
+### 🎴 MikaCards
+Our TCG (Trading Card Game) store bringing joy to collectors and players.
+
+### ✝️ GodTalk
+A faith-based project connecting people through meaningful conversations.
+
+### 🤖 Automation & Tools
+Various automation tools and utilities to streamline workflows and solve everyday problems.
+
 ## What We Do
 
 - 🔧 **Engineering Excellence**: Crafting robust, scalable solutions with clean code and best practices
@@ -20,6 +31,7 @@ We believe in:
 - **Continuous learning**: Always evolving with technology
 - **Practical solutions**: Building things that work and matter
 - **Documentation**: Making our work accessible and maintainable
+- **AI-Assisted Development**: Leveraging Claude and modern AI tools to enhance our workflow
 
 ## Tech Stack
 
@@ -28,10 +40,13 @@ Our projects leverage modern technologies including:
 - Full-stack development
 - Automation and DevOps
 - AI/ML integration
+- E-commerce and business tools
 
-## Get in Touch
+## Repository Structure
 
-Interested in collaborating or learning more about our projects? Feel free to explore our repositories or reach out!
+- **claude-workspace**: Our central hub with coding standards, templates, and guidelines
+- Project-specific repositories for each venture
+- Shared utilities and common tools
 
 ---
 
