@@ -44,7 +44,7 @@ Our projects leverage modern technologies including:
 
 ## Repository Structure
 
-- **[SETUP.md](SETUP.md)**: Complete guide on how we configured Claude with GitHub network access
+- **[SETUP.md](../SETUP.md)**: Complete guide on how we configured Claude with GitHub network access
 - **claude-workspace**: Our central hub with coding standards, templates, and guidelines
 - Project-specific repositories for each venture
 - Shared utilities and common tools
