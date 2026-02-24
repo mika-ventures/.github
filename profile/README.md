@@ -2,53 +2,45 @@
 
 Welcome to **Mika Ventures** – where engineering excellence meets entrepreneurial spirit.
 
-## Who We Are
-
-We're Miguel and Karen, a husband-and-wife team of engineers and business owners building innovative solutions across multiple domains. Our organization serves as the home for our collaborative projects, experiments, and ventures.
-
-## Our Projects
-
-### 🎴 MikaCards
-Our TCG (Trading Card Game) store bringing joy to collectors and players.
-
-### ✝️ GodTalk
-A faith-based project connecting people through meaningful conversations.
-
-### 🤖 Automation & Tools
-Various automation tools and utilities to streamline workflows and solve everyday problems.
-
-## What We Do
-
-- 🔧 **Engineering Excellence**: Crafting robust, scalable solutions with clean code and best practices
-- 💡 **Innovation**: Exploring new technologies and solving real-world problems
-- 🎯 **Multiple Ventures**: Managing diverse projects from conception to deployment
-- 🤝 **Collaboration**: Working together to bring ideas to life
-
-## Our Approach
-
-We believe in:
-- **Quality over quantity**: Every line of code matters
-- **Continuous learning**: Always evolving with technology
-- **Practical solutions**: Building things that work and matter
-- **Documentation**: Making our work accessible and maintainable
-- **AI-Assisted Development**: Leveraging Claude and modern AI tools to enhance our workflow
-
-## Tech Stack
-
-Our projects leverage modern technologies including:
-- Cloud platforms and infrastructure
-- Full-stack development
-- Automation and DevOps
-- AI/ML integration
-- E-commerce and business tools
-
-## Repository Structure
-
-- **[SETUP.md](../SETUP.md)**: Complete guide on how we configured Claude with GitHub network access
-- **claude-workspace**: Our central hub with coding standards, templates, and guidelines
-- Project-specific repositories for each venture
-- Shared utilities and common tools
+We're Miguel and Karen, a husband-and-wife team of engineers and business owners building across multiple ventures.
 
 ---
 
-*Building the future, one project at a time.*
+## 🧭 Start Here
+
+All development in this organization runs through **[claude-workspace](https://github.com/mika-ventures/claude-workspace)** — the central hub with coding standards, project index, and Claude AI collaboration guidelines.
+
+If you're starting a session, clone that repo first and read its `CLAUDE.md`.
+
+---
+
+## Our Ventures
+
+### 🎴 MikaCards
+TCG (Trading Card Game) e-commerce store — sealed products, singles, and accessories for collectors and players in Guatemala.
+→ [mika-ventures/mikacards](https://github.com/mika-ventures/mikacards)
+
+### ✝️ GodTalk
+Faith-based Bible study platform — structured studies and visual content published to [godtalk.blog](https://godtalk.blog).
+→ [mika-ventures/godtalk](https://github.com/mika-ventures/godtalk)
+
+### 🎤 Interview System
+Private interview pipeline — template generation, candidate tracking, knowledge base, and structured feedback for technical interviews.
+→ [mika-ventures/interview-system](https://github.com/mika-ventures/interview-system) *(private)*
+
+### 🤖 Automation Tools
+Scripts and utilities to streamline workflows across all ventures.
+→ [mika-ventures/automation-tools](https://github.com/mika-ventures/automation-tools)
+
+---
+
+## Our Approach
+
+- **AI-assisted development** — Claude is a first-class collaborator, not just a tool
+- **Quality over quantity** — every line of code matters
+- **Practical solutions** — building things that work and matter
+- **Documentation** — keeping context alive across sessions
+
+---
+
+*Building the future, one venture at a time.*
